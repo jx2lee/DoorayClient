@@ -1,0 +1,7 @@
+#file
+##build
+**/__pycache__/
+
+#folder
+.idea/
+venv/
